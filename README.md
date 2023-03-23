@@ -9,8 +9,7 @@
 <div>
 <a href="https://github.com/anaritacpereira">
   <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical&include_all_comits=true" />
-  <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&layout=compact&theme=radical" />
-  <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&hide_progress=true&theme=radical" />
+  <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&layout=compact&theme=radical&langs_count=16" />
 </a>
 
 <!--
@@ -19,6 +18,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 ![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&layout=compact&theme=radical)](https://github.com/anaritacpereira/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&hide_progress=true)](https://github.com/anaritacpereira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
