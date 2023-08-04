@@ -28,6 +28,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rita-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
   <img align="center" alt="Rita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Rita-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rita-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
@@ -37,7 +38,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
   <img align="center" alt="Rita-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rita-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   </div>
-  
+
+
+          
   ##
  
 <div> 
