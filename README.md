@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱  I'm learning Node.js
+- 🌱  I'm learning Nodejs
 
 
 
