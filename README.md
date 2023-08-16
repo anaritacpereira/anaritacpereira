@@ -7,24 +7,12 @@
 
 <div>
 
-  
-  <a href="https://github.com/anaritacpereira">
+<a href="https://github.com/anaritacpereira">
   <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical" />
   <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&layout=compact&theme=radical&langs_count=20" />
 </a>
 
  
-![Ana Rita Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical)
-
-
-![Ana Rita Pereira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&layout=compact&theme=radical&langs_count=20)
-
-
-
-
-
-
-
 <!--
 
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
