@@ -17,7 +17,9 @@
 ![Ana Rita Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Ana Rita Pereira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&layout=compact&theme=radical&langs_count=120)
+
+
 
 
 
