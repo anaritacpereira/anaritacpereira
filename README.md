@@ -14,7 +14,7 @@
 </a>
 -->
  
-![Ana Rita Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical)
+![Ana Rita Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical&include_all_comits=true)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
