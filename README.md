@@ -12,11 +12,8 @@
   <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&layout=compact&theme=radical&langs_count=120" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical&include_all_comits=true)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
