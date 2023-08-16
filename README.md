@@ -7,13 +7,15 @@
 ##
 
 <div>
-<a href="https://github.com/anaritacpereira">
+<!--
+  
+  <a href="https://github.com/anaritacpereira">
   <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical&include_all_comits=true" />
   <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&layout=compact&theme=radical&langs_count=120" />
 </a>
-
+-->
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical&include_all_comits=true)
+![Ana Rita Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
