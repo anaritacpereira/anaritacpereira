@@ -9,7 +9,7 @@
 
   
   <a href="https://github.com/anaritacpereira">
-  <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical&include_all_comits=true" />
+  <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=anaritacpereira&show_icons=true&theme=radical" />
   <img heigth="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaritacpereira&layout=compact&theme=radical&langs_count=20" />
 </a>
 
