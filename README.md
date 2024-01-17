@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱  I'm learn10ing Nodejs
+- 🌱  I'm learning Nodejs
 
 
 
